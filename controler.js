@@ -1,1 +1,4 @@
-const valor = 'hola'
+
+export function controler() {
+  return 'hola!!';
+}
