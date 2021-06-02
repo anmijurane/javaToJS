@@ -1,4 +1,5 @@
 
-export function controler() {
-  return 'hola!!';
+export function controler(a,b) {
+  return a+b;
+
 }
